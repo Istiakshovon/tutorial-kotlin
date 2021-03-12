@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="swimming">সাঁতার</string>
+    <string name="reading">পড়া</string>
+    <string name="walking">হাঁটছে</string>
+    <string name="sleeping">ঘুমাচ্ছে</string>
+    <string name="gaming">গেমিং</string>
+    <string name="traveling">ভ্রমণ</string>
+    <string name="talking">কথা হচ্ছে</string>
+    <string name="loving">প্রেমময়</string>
+</resources>
